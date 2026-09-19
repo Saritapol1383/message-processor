@@ -1,3 +1,3 @@
-Message Processor
+**Message Processor**
 
-Git -> FastAPI -> StreamLit -> Docker
+- Git -> FastAPI -> StreamLit -> Docker
